@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = olliebarnes1@hotmail.com
+	name = Oliver Barnes
